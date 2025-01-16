@@ -1,16 +1,16 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book criado durante o currso da DIO - Caixa IA Generativa com Microsoft Copilot
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT 4o mini
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompt para criação de ebbok completo sobre Tranformação digital em bancos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Texto completo e objetivo
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
